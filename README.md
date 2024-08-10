@@ -38,6 +38,8 @@
 - 服务化、配置化、领域化和中台化
 - 平台化
 
+> 小步子策略
+
 ```py
 from typing import Union, Dict, NamedTuple, TypedDict, List, Generator, Iterator, Tuple, AnyStr
 from dataclasses import astuple, dataclass
@@ -49,4 +51,5 @@ from importlib import metadata
 > 正则命名分组和纯函数
 
 <https://immutable-js.com/>
+
 <https://book-refactoring2.ifmicro.com/ebook/refactoring2.pdf>
