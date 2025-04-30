@@ -67,3 +67,6 @@ from importlib import metadata
 <https://immutable-js.com/>
 
 <https://book-refactoring2.ifmicro.com/ebook/refactoring2.pdf>
+
+> SOLID原则
+
